@@ -227,19 +227,19 @@ span {
 @keyframes words {
     0%,
     20% {
-        content: 'Une etudiente ';
+        content: 'Une etudiente IT ';
     }
     21%,
     40% {
-        content: 'en IT';
+        content: 'developper';
     }
     41%,
     60% {
-        content: 'future admnistratrice';
+        content: 'Junior disegn';
     }
     61%,
     80% {
-        content: 'Junior disegn';
+        content: 'Dinamyques';
     }
     81%,
     100% {
